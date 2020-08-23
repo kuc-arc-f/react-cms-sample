@@ -6,7 +6,7 @@
 
  date    :  2020/08/22 
 
- update :
+ update : 2020/08/23
 
 ***
 
@@ -17,6 +17,7 @@ Github pages file :
 ***
 ### sample
 
+https://kuc-arc-f.github.io/react-cms-sample
 
 ***
 
